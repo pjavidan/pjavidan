@@ -9,6 +9,14 @@
 [![Website](https://img.shields.io/website?label=p-javidan.ir&style=for-the-badge&url=https%3A%2F%2Fp-javidan.ir)](https://p-javidan.ir/home_en/)
 
 
+<p align='center'>
+  <a href="https://twitter.com/stefany_vasc"><img src="https://img.shields.io/badge/github-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=Black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/stefanyvasconcelos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:stefany.vasc.sa@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
+
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to work with other web developers and programmers 
