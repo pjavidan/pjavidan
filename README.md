@@ -46,12 +46,10 @@
 ### Tech Stack:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/vscode.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/phpstorm.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/vscode.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/vscode.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/vscode.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/vscode.png" />
-
-
 
 
 <hr>
