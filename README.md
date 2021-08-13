@@ -1,9 +1,9 @@
 <h1 align='center'> Hi there 👋, I'm Peyman </h1>
 
 
-<h1 align='center'>
+<h2 align='center'>
   A freelance web designer and developer based in Isfahan. I create custom websites to help businesses do better online.
-</h1> 
+</h2> 
 
 <h4 align='left'> How to reach me </h4>
 <p align='center'>
