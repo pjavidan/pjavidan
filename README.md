@@ -45,22 +45,11 @@
 
 ### Tech Stack:
 
-<img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/vscode.png" />
-<img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/phpstorm.png" />
-<img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/pycharm.png" />
-<img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/ubuntu.png" />
-<img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/Apache%20web%20server.png" />
-
-
-
-
-
-
-
-
-
-<hr>
-
+[<img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/vscode.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/phpstorm.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/pycharm.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/ubuntu.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/Apache%20web%20server.png" />][webdevplaylist]
 
 
 <hr>
