@@ -5,9 +5,9 @@
   A freelance web designer and developer based in Isfahan. I create custom websites to help businesses do better online.
 </h1> 
 
-<p align='center'>
+
 [![Website](https://img.shields.io/website?label=p-javidan.ir&style=for-the-badge&url=https%3A%2F%2Fp-javidan.ir)](https://p-javidan.ir/home_en/)
-</p>
+
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning everything
