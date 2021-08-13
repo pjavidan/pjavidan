@@ -1,4 +1,12 @@
-<h1 align='center'> Hi there 👋, I'm Stefany  👩‍💻 </h1>
+<h1 align='center'> Hi there 👋, I'm Peyman  👩‍💻 </h1>
+
+<p align='center'>
+  I live on Esfahan, Iran 
+</p>
+
+<p align='center'>
+  A freelance web designer and developer based in Isfahan. I create custom websites to help businesses do better online.
+</p> 
 
 [![Website](https://img.shields.io/website?label=p-javidan.ir&style=for-the-badge&url=https%3A%2F%2Fp-javidan.ir)](https://p-javidan.ir/home_en/)
 
