@@ -21,7 +21,11 @@
 </p>
 
 <hr>
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning ...
+
+<p align='center'>
+  <img src="https://img.shields.io/badge/java-B07219?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/kotlin-A97BFF?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
+</p>
 
 <hr>
 
