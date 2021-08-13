@@ -21,12 +21,7 @@
 - 🥅 Goals: Contribute more to projects and Gain  more experience
 - ⚡ Fun fact: Gaming 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/pjavidan1988)
-
-
-#007ACC
+<hr>
 
 
 ### Connect with me:
