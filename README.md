@@ -24,9 +24,13 @@
 - 🌱 I’m currently learning everything
 
 <hr>
+
+
 - 👯 I’m looking to work with other web developers and programmers 
 - 🥅 Goals: Contribute more to projects and Gain  more experience
 - ⚡ Fun fact: Gaming 
+
+
 <hr>
 
 
