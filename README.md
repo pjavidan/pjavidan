@@ -57,7 +57,14 @@
 
 
 
-<br/>
+
+
+<hr>
+
+
+
+<hr>
+
 
 
 ### 📺 Latest YouTube Videos
@@ -69,7 +76,7 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCMwoBhDiEzJqi-4JT98VuUQ)
 
----
+<hr>
 
 ### 📕 Latest Blog Posts
 
