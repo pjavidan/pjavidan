@@ -44,7 +44,7 @@
 
 ### Languages and Tools:
 
-<img src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/Apache%20web%20server.png" />&nbsp;&nbsp;
+<img width="60px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/Apache%20web%20server.png" />&nbsp;&nbsp;
 
 
 <hr>
