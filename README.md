@@ -5,8 +5,9 @@
   A freelance web designer and developer based in Isfahan. I create custom websites to help businesses do better online.
 </h2> 
 
-<h4 align='left'> How to reach me </h4>
+
 <p align='center'>
+<h4 align='left'> How to reach me : </h4>
   <a href="https://www.linkedin.com/in/peyman-javidan-583490174/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:p.javidan1988@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://p-javidan.ir/home_en/"><img src="https://img.shields.io/website?label=p-javidan.ir&style=for-the-badge&url=https%3A%2F%2Fp-javidan.ir" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
