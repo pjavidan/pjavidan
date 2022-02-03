@@ -9,7 +9,7 @@
 <p align='center'>  
   <a href="https://www.linkedin.com/in/peyman-javidan-583490174/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:p.javidan1988@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://p-javidan.ir/home_en/"><img src="https://img.shields.io/website?label=p-javidan.ir&style=for-the-badge&url=https%3A%2F%2Fp-javidan.ir" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://peyman-javidan.ir/home_en/"><img src="https://img.shields.io/website?label=p-javidan.ir&style=for-the-badge&url=https%3A%2F%2Fp-javidan.ir" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
@@ -29,7 +29,7 @@
 
 
 <p align='center'>
-  <img src="![C#](https://img.shields.io/badge/C#-692386?style=for-the-badge&logo=C#&logoColor=white)" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/ASP>NET-A97BFF?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-C Shorp-692386?logo=C Sharp&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/-ASP.NET-512BD4?logo=.NET&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;
 </p>
 
 <hr>
