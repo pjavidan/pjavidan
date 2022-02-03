@@ -29,7 +29,7 @@
 
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/C#-B07219?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/ASP>NET-A97BFF?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
+  <img src="![C#](https://img.shields.io/badge/C#-692386?style=for-the-badge&logo=C#&logoColor=white)" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/ASP>NET-A97BFF?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <hr>
