@@ -59,22 +59,3 @@
 <hr>
 
 
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [E-Commerce-Website-Django](https://www.youtube.com/watch?v=mFfOSfTY5GU)
-
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCMwoBhDiEzJqi-4JT98VuUQ)
-
-<hr>
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://p-javidan.ir/blog_en/)
