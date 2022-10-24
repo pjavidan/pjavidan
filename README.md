@@ -46,7 +46,6 @@
 
 
 <img width="60px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/vscode.png" />&nbsp;&nbsp;
-<img width="60px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/phpstorm.png" />&nbsp;&nbsp;
 <img width="60px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/pycharm.png" />&nbsp;&nbsp;
 <img width="60px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/postgresql.png" />&nbsp;&nbsp;
 <img width="60px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/mysql.png" />&nbsp;&nbsp;
