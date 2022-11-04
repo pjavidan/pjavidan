@@ -20,7 +20,8 @@
 
 <p align='center'>
 <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/django-0F3C2D?style=for-the-badge&logo=Django&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/kivy-3D3F40?style=for-the-badge&logo=KIVY&logoColor=white"/>&nbsp;&nbsp;
-src="https://img.shields.io/badge/kivy-3D3F40?style=for-the-badge&logo=KIVY&logoColor=white"/>&nbsp;&nbsp;  
+<img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>&nbsp;&nbsp;
+ 
 </p>
 
 <hr>
