@@ -29,6 +29,30 @@
 
 <hr>
 
+- 🔭 IDE:
+
+
+
+<p align='center'>
+<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp;&nbsp;
+ 
+</p>
+
+<hr>
+
+- 🔭 Operating System:
+
+
+
+<p align='center'>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>&nbsp;&nbsp;
+ 
+</p>
+
+<hr>
+
 - 🌱 I’m currently learning ...
 
 
