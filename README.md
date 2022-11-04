@@ -5,7 +5,7 @@
   A freelance web designer and developer based in Isfahan. I create custom websites to help businesses do better online.
 </h2> 
 
-- 💬 how to reach me :
+- 🔍 how to reach me :
 <p align='center'>  
   <a href="https://www.linkedin.com/in/peyman-javidan-583490174/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:p.javidan1988@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -14,12 +14,13 @@
 
 <hr>
 
-- 📋 Languages
+### 📋 Languages
 
 
 
+<p align='center'>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;&nbsp;
-
+</p>
 
 <hr>
 
@@ -39,12 +40,15 @@
 
 - 💾 Databases
 
+
+
+<p align='center'>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
-
+</p>
 <hr>
 
-- computer IDEs/Editors:
+- 💻 IDEs/Editors:
 
 
 
@@ -56,7 +60,7 @@
 
 <hr>
 
-- 🔭 Operating System:
+- 🎛️ Operating System:
 
 
 
