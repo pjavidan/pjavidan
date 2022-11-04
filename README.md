@@ -14,16 +14,33 @@
 
 <hr>
 
-- 🔭 I’m currently working on:
+- 📋 Languages
+
+
+
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;&nbsp;
+
+
+<hr>
+
+- 📚 Frameworks
 
 
 
 <p align='center'>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/django-0F3C2D?style=for-the-badge&logo=Django&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/kivy-3D3F40?style=for-the-badge&logo=KIVY&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/django-0F3C2D?style=for-the-badge&logo=Django&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/kivy-3D3F40?style=for-the-badge&logo=KIVY&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>&nbsp;&nbsp;
 
+
 </p>
+
+<hr>
+
+- 💾 Databases
+
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
 
 <hr>
 
