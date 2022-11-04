@@ -19,7 +19,7 @@
 
 
 <p align='center'>
-<img src="[https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/django-0F3C2D?style=for-the-badge&logo=Django&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/kivy-3D3F40?style=for-the-badge&logo=KIVY&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/django-0F3C2D?style=for-the-badge&logo=Django&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/kivy-3D3F40?style=for-the-badge&logo=KIVY&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>&nbsp;&nbsp;
 <img src="[https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white))"/>&nbsp;&nbsp;
 <img src="[https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)"/>&nbsp;&nbsp;
