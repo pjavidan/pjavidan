@@ -5,7 +5,7 @@
   A freelance web designer and developer based in Isfahan. I create custom websites to help businesses do better online.
 </h2> 
 
--### 🔍 how to reach me :
+### 🔍 how to reach me :
 <p align='center'>  
   <a href="https://www.linkedin.com/in/peyman-javidan-583490174/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:p.javidan1988@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,7 +24,7 @@
 
 <hr>
 
-- 📚 Frameworks
+### 📚 Frameworks
 
 
 
@@ -38,7 +38,7 @@
 
 <hr>
 
-- 💾 Databases
+### 💾 Databases
 
 
 
@@ -48,7 +48,7 @@
 </p>
 <hr>
 
-- 💻 IDEs/Editors:
+### 💻 IDEs/Editors:
 
 
 
@@ -60,7 +60,7 @@
 
 <hr>
 
-- 🎛️ Operating System:
+### 🎛️ Operating System:
 
 
 
@@ -72,7 +72,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 
 
 
@@ -92,14 +92,14 @@
 
 ### Tech Stack:
 
-
+<p align='center'>
 <img width="60px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/vscode.png" />&nbsp;&nbsp;
 <img width="60px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/pycharm.png" />&nbsp;&nbsp;
 <img width="60px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/postgresql.png" />&nbsp;&nbsp;
 <img width="60px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/mysql.png" />&nbsp;&nbsp;
 <img width="60px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/ubuntu.png" />&nbsp;&nbsp;
 <img width="60px" src="https://raw.githubusercontent.com/pjavidan1988/pjavidan1988/main/raspberry%20pi.png" />&nbsp;&nbsp;
-
+</p>
 
 
 
