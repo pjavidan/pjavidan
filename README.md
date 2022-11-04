@@ -14,7 +14,7 @@
 
 <hr>
 
-### 📋 Languages
+### 📋 Programming Language
 
 
 
