@@ -1,9 +1,9 @@
 <h1 align='center'> Hi there 👋, I'm Peyman </h1>
 
 
-<h2 align='center'>
+<h2>
   Highly skilled and experienced Django and Python developer with a proven track record of creating and deploying robust, scalable, and secure web applications. Strong understanding of the Python programming language and its associated libraries, frameworks, and tools. Skilled in Agile development methodologies, database management, and front-end technologies such as HTML, CSS, and JavaScript.
-</h2><br> 
+</h2> 
 
 <hr>
 
