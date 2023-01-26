@@ -5,6 +5,8 @@
   Highly skilled and experienced Django and Python developer with a proven track record of creating and deploying robust, scalable, and secure web applications. Strong understanding of the Python programming language and its associated libraries, frameworks, and tools. Skilled in Agile development methodologies, database management, and front-end technologies such as HTML, CSS, and JavaScript.
 </h2><br> 
 
+<hr>
+
 ### 🔍 how to reach me :
 <p align='center'>  
   <a href="https://www.linkedin.com/in/peyman-javidan-583490174/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
